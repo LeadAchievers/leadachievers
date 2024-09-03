@@ -962,7 +962,7 @@ a:focus {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000099; /* Adjust color to match your design */
+    background-color: #00204a; /*  000099  Adjust color to match your design */ /*this for baby blue = #000099*/
     box-shadow: 0 0 20px #00f5ff; /* Adjust glow effect */
     margin: 0 auto 20px; /* Center align and add space below */
 }
